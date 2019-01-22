@@ -28,8 +28,8 @@
       <file leaf-file-name="karma.conf.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/karma.conf.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="30" column="2" lean-forward="true" selection-start-line="30" selection-start-column="2" selection-end-line="30" selection-end-column="2" />
+            <state relative-caret-position="480">
+              <caret line="32" selection-start-line="32" selection-end-line="32" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -163,7 +163,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1548128312620</updated>
-      <workItem from="1548128314403" duration="1195000" />
+      <workItem from="1548128314403" duration="2541000" />
     </task>
     <task id="LOCAL-00001" summary="m 2nd commit">
       <created>1548128910040</created>
@@ -176,7 +176,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1195000" />
+    <option name="totallyTimeSpent" value="2541000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
@@ -191,7 +191,7 @@
       <window_info anchor="right" id="Maven Projects" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Version Control" weight="0.32876712" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info id="Capture Tool" />
       <window_info anchor="bottom" id="TypeScript" />
@@ -235,8 +235,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/karma.conf.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="2" lean-forward="true" selection-start-line="30" selection-start-column="2" selection-end-line="30" selection-end-column="2" />
+        <state relative-caret-position="480">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
